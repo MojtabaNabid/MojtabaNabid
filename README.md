@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a Wallet project.**
 
-- 💬 Ask me about **React, NextJS, JavaScript, TypeScript**
+💬 Ask me about = [`Javascript`, `React`, `CSS`, `HTML`, `TypeScript`, `Git`];
 
 - 📫 How to reach me **mojtaba.nabid@gmail.com**
 
