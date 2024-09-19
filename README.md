@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mojtaba</h1>
-<h3 align="center">A dedicated front-end developer based in NRW, Germany, with a passion for building user-friendly and modern web applications.</h3>
-<h3 align="center">Ein engagierter Frontend-Entwickler aus NRW, Deutschland, mit einer Leidenschaft für benutzerfreundliche und moderne Webanwendungen.</h3>
+<h3 align="center">Front-End web developer</h3>
 
 - 🔭 I’m currently working on **a Wallet project.**
 
