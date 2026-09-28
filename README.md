@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mojtaba</h1>
+<h1 align="center">Hi 👋, I'm Mojtaba (Nik)</h1>
 <h3 align="center">Front-End web developer in NRW, Germany (🇩🇪)</h3>
 
 - 🔭 I’m currently working on **a ToDoList app**
