@@ -1,4 +1,4 @@
-### Hi, I'm Mojtaba 👋
+### Hi, I'm Mojtaba (Nik) 👋
 
 Frontend Developer passionate about building clean, responsive, and user-friendly web applications.
 
